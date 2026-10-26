@@ -87,7 +87,7 @@ I enjoy turning theory into practice: solving problems, building projects and le
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-gabrielandretafelix--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielandretafelix-creator)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-PERFIL](https://www.linkedin.com/in/gabriel-felix-andreta-a0533b298/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Andreta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felix-andreta-a0533b298/)
 
 </div>
 
