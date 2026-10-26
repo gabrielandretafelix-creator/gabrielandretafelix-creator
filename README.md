@@ -1,48 +1,100 @@
+<div align="center">
 
-# Hi, I'm Gabriel Andreta! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=180&section=header&text=Gabriel%20Andreta&fontColor=ffffff&fontSize=48" alt="Header" />
 
-🎓 Computer Science student at UNIESI, currently in my 8th semester.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+UNIESI;Passionate+about+Artificial+Intelligence;Building+projects+with+Python+and+Deep+Learning;Always+learning%2C+always+evolving" alt="Typing SVG" />
+</a>
 
-💻 I'm interested in software development, artificial intelligence, machine learning, and technology in general. I enjoy learning new technologies, solving problems, and developing projects that help me put theoretical knowledge into practice.
+<br/>
 
-🚀 I'm continuously improving my programming skills and looking for opportunities to grow as a developer, collaborate with other professionals, and contribute to real-world projects.
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielandretafelix-creator&label=Profile+Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/gabrielandretafelix-creator?style=flat&logo=github&color=2c5364)
 
-## 👨‍💻 Programming Languages
-
-- Python
-- Java
-- SQL
-- HTML
-
-## 🧰 Libraries and Frameworks
-
-- TensorFlow
-- Keras
-- Streamlit
-- Pygame
-
-## 🗄️ Databases and Tools
-
-- MySQL
-- Git
-- GitHub
-- NetBeans
-- PyCharm
-- Visual Studio Code
-
-## 🧠 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning and Deep Learning
-- Neural Networks
-- Software Development
-- Computer Vision
-
-## 📫 Connect with Me
-
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- GitHub: [My GitHub Profile](https://github.com/gabrielandretafelix-criador)
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 👋 About Me
+
+I'm a **Computer Science student at UNIESI**, currently in my **8th semester**, with a strong interest in **software development, artificial intelligence and machine learning**.
+
+I enjoy turning theory into practice: solving problems, building projects and learning new technologies along the way. I'm constantly improving my skills and looking for opportunities to grow as a developer, collaborate with other professionals and contribute to real-world projects.
+
+- 🔭 Currently exploring **Deep Learning and Computer Vision**
+- 🌱 Always learning new tools and best practices
+- 🤝 Open to collaborations and learning opportunities
+- 🎯 Goal: build a career in **AI and Software Development**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🧠 AI, Libraries & Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
+---
+
+## 🎯 Areas of Interest
+
+| 🤖 Artificial Intelligence | 🧬 Deep Learning | 👁️ Computer Vision | 💻 Software Development |
+|:---:|:---:|:---:|:---:|
+| Machine Learning | Neural Networks | Image Analysis | Clean, practical code |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-ten-sigma-63.vercel.app/api?username=gabrielandretafelix-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-ten-sigma-63.vercel.app/api/top-langs/?username=gabrielandretafelix-creator&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=gabrielandretafelix-creator&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-gabrielandretafelix--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielandretafelix-creator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *Thanks for visiting my profile!* ⭐
+
+</div>
