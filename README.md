@@ -82,6 +82,22 @@ I enjoy turning theory into practice: solving problems, building projects and le
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielandretafelix-creator/gabrielandretafelix-creator/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielandretafelix-creator/gabrielandretafelix-creator/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielandretafelix-creator/gabrielandretafelix-creator/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+
+
+
+
 ## 📫 Let's Connect
 
 <div align="center">
